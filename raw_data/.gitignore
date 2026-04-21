@@ -1,0 +1,3 @@
+# Raw benchmark downloads are created on disk by download_data.py when needed.
+helm/
+vhelm/
